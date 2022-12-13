@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-03T14:27:54 IST" name="Default suite" finished-at="2022-08-03T14:28:06 IST" duration-ms="11776">
+    <groups>
+    </groups>
+    <test started-at="2022-08-03T14:27:54 IST" name="Default test" finished-at="2022-08-03T14:28:06 IST" duration-ms="11776">
+      <class name="functionality.ValidLogin">
+        <test-method signature="loginpage()[pri:0, instance:functionality.ValidLogin@3967e60c]" started-at="2022-08-03T14:27:54 IST" name="loginpage" finished-at="2022-08-03T14:28:06 IST" duration-ms="11746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+      </class> <!-- functionality.ValidLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
