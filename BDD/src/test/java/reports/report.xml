@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="16.904">
+    <testcase classname="Test the login of ksrtc" name="Test for valid details" time="16.78">
+        <system-out><![CDATA[Given Open the chrome browser and url of the application....................passed
+When Enter the username and password........................................passed
+Then Login success..........................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
